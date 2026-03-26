@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Labo 3</string>
+    <string name="label_enter_name">Entrez votre nom</string>
+    <string name="hint_name">Votre nom</string>
+    <string name="button_next">Suivant</string>
+    <string name="label_welcome">Bienvenue!</string>
+    <string name="button_thank_you">Merci</string>
+    <string name="button_dont_call_me">Ne m\'appelez pas comme ça</string>
+</resources>
